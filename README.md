@@ -20,9 +20,7 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| [RimClone](https://github.com/Huh-HAH-heh/Game-hqopety) | A simulation-focused game project with a custom world and rendering pipeline. | C#, .NET 10, SFML.NET |
 | [STT Work TTS](https://github.com/Huh-HAH-heh/STT-WORK-TTS) | A local voice pipeline: microphone capture, speech recognition, text processing, and speech synthesis. | Python, faster-whisper, Ollama, Qwen3-TTS |
-| [Autonomous Dev Environment](https://github.com/Huh-HAH-heh/Autonomous-Dev-Environment) | A Windows setup for a local-first software engineering agent. | PowerShell, Python tooling, Hermes Agent |
 | [Ticket Manager](https://github.com/Huh-HAH-heh/Ticket-manadger--BTW-KK-) | A service-desk application split into a console client, HTTP API, and database. | C#, .NET 10, ASP.NET Core, PostgreSQL, EF Core |
 
 ## Tech I work with
