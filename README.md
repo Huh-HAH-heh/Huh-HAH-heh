@@ -20,7 +20,7 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| [STT Work TTS](https://github.com/Huh-HAH-heh/STT-WORK-TTS) | A local voice pipeline: microphone capture, speech recognition, text processing, and speech synthesis. | Python, faster-whisper, Ollama, Qwen3-TTS |
+| [STT Work TTS](https://github.com/Huh-HAH-heh/STT-WORK-TTS) | A local voice pipeline: microphone capture, speech recognition, text processing, and speech synthesis. | Python, faster-whisper, Ollama|
 | [Ticket Manager](https://github.com/Huh-HAH-heh/Ticket-manadger--BTW-KK-) | A service-desk application split into a console client, HTTP API, and database. | C#, .NET 10, ASP.NET Core, PostgreSQL, EF Core |
 
 ## Tech I work with
@@ -34,7 +34,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Current focus
+# Current focus
 
 - Improving simulation, rendering, and AI-driven behavior in game projects.
 - Building local voice interfaces and modular AI-assisted workflows.
