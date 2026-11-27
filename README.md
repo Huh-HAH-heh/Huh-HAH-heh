@@ -22,7 +22,7 @@
 |---|---|---|
 | [STT Work TTS](https://github.com/Huh-HAH-heh/STT-WORK-TTS) | A local voice pipeline: microphone capture, speech recognition, text processing, and speech synthesis. | Python, faster-whisper, Ollama|
 | [Ticket Manager](https://github.com/Huh-HAH-heh/Ticket-manadger--BTW-KK-) | A service-desk application split into a console client, HTTP API, and database. | C#, .NET 10, ASP.NET Core, PostgreSQL, EF Core |
-| [TTSReader](https://github.com/Huh-HAH-heh/TTSReader) | An Android mobile reader for FB2 files featuring text-to-speech (TTS) playback via the system's native engine. | C#, .NET 10, ASP.NET Core, SQLite, EF Core |
+| [TTSReader](https://github.com/Huh-HAH-heh/TTSReader) | An Android mobile reader for FB2 files featuring text-to-speech (TTS) playback via the system's native engine. | C#, .NET 9, ASP.NET Core, SQLite, EF Core |
 
 ## Tech I work with
 
